@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<img src="https://imgur.com/a/8tzyeOt">
+<img src="./assets/mata-mosquito.png" width="550px" height="400px">
 <br/>
 <br/>
 
